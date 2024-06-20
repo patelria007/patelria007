@@ -1,8 +1,20 @@
-<h2 align="left">Hey y'all 👋! I'm Ria Patel</h2>
+<h2 align="left">Hey y'all 👋! I'm Ria Patel </h2>
 
 ###
 
-<h4 align="left">Connect with me!</h4>
+<h2 align="left">About me 👩🏾‍💻</h2>
+<div>
+  <ul>
+    <li><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F254059.png&f=1&nofb=1&ipt=36f92ffa5c29d3eb325752007c5ec1f2534f91bf5e3621664a446b67cce31041&ipo=images" height="20" alt="university of tennessee logo"/> Ph.D. student in Computer Science at the University of Tennessee </li>
+    <li>🖥️ Currently researching deep learning techniques using cutting-edge computers</li>
+    <li>📚 Love learning new things!</li>
+  </ul>
+</div>
+
+###
+
+<h2 align="left">Connect with me! 🌎</h2>
+<p align="left">Visit <a href="https://patelria007.github.io">my website</a> or contact me through the following platforms!</p>
 
 ###
 
@@ -20,7 +32,7 @@
 
 ###
 
-<p align="left">Visit [my website](https://patelria007.github.io)!</p>
+
 
 ###
 
@@ -54,7 +66,7 @@
 
 ###
 
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -67,7 +79,7 @@
 </div>
 
 ###
-
+<h2>🐍 in my contributions!</h2>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/patelria007/patelria007/output/snake.svg" alt="Snake animation" />
