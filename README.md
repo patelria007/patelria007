@@ -5,8 +5,8 @@
 <h2 align="left">About me 👩🏾‍💻</h2>
 <div>
   <ul>
-    <li><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F254059.png&f=1&nofb=1&ipt=36f92ffa5c29d3eb325752007c5ec1f2534f91bf5e3621664a446b67cce31041&ipo=images" height="20" alt="university of tennessee logo"/> Ph.D. student in Computer Science at the University of Tennessee </li>
-    <li>🖥️ Currently researching deep learning techniques using cutting-edge computers</li>
+    <li><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2023%2F06%2Fnc-state_logo-freelogovectors.net_-640x400.png&f=1&nofb=1&ipt=8e204fe929e3d121d022062fe3cbd0cdf549cb6041423660f3b77a3baa17ee7b" height="50" alt="nc state logo"/> Ph.D. student in Computer Science at North Carolina State University </li>
+    <li>🖥️ Currently researching quantum algorithms and exploring quantum benchmarking</li>
     <li>📚 Love learning new things!</li>
   </ul>
 </div>
